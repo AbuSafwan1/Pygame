@@ -1,72 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T02:39:48.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="GwegJbYecCkwJYg710zN" version="24.5.5" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1732" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-06-23T01:30:56.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.5" etag="tjzo67yOCk-YkoJiXALs" type="github">
+  <diagram name="Page-1" id="X5kkt-1Uw8HMqpeyCltf">
+    <mxGraphModel>
       <root>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="KGeOtb--NR7IPhipVcRM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-17" target="KGeOtb--NR7IPhipVcRM-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-17" value="Server Backend" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="337" y="750" width="125" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-18" target="KGeOtb--NR7IPhipVcRM-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-18" value="Frontend Website" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="329" y="834" width="141" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-20" target="KGeOtb--NR7IPhipVcRM-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-20" value="Server Backend" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="337" y="423" width="125" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-21" target="KGeOtb--NR7IPhipVcRM-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-21" value="Database" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="499" width="81" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-22" target="KGeOtb--NR7IPhipVcRM-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-22" value="Machine Learning" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="582" width="140" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-23" target="KGeOtb--NR7IPhipVcRM-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-23" value="Database" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="666" width="81" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-25" target="KGeOtb--NR7IPhipVcRM-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-25" value="Mikrokontroler" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339" y="249" width="120" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-26" target="KGeOtb--NR7IPhipVcRM-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-26" value="Sensor Detak Jantung" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="165" width="169" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-27" target="KGeOtb--NR7IPhipVcRM-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-27" value="Modul Komunikasi" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="328" y="340" width="142" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGeOtb--NR7IPhipVcRM-58" target="KGeOtb--NR7IPhipVcRM-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-58" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="80" width="98" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KGeOtb--NR7IPhipVcRM-60" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="911" width="80" height="40" as="geometry" />
-        </mxCell>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
